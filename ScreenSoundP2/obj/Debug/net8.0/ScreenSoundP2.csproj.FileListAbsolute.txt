@@ -1,0 +1,14 @@
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\bin\Debug\net8.0\ScreenSoundP2.exe
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\bin\Debug\net8.0\ScreenSoundP2.deps.json
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\bin\Debug\net8.0\ScreenSoundP2.runtimeconfig.json
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\bin\Debug\net8.0\ScreenSoundP2.dll
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\bin\Debug\net8.0\ScreenSoundP2.pdb
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.AssemblyInfoInputs.cache
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.AssemblyInfo.cs
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.csproj.CoreCompileInputs.cache
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.dll
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\refint\ScreenSoundP2.dll
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.pdb
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ScreenSoundP2.genruntimeconfig.cache
+D:\Códigos_aulas\ScreenSoundP2\ScreenSoundP2\obj\Debug\net8.0\ref\ScreenSoundP2.dll
